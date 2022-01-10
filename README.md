@@ -1,6 +1,6 @@
 <h1 align = "center"> Olá, Seja Bem vindo ao meu repositório. 👋 </h1>
 
-- 🌱 Estou estudando atualmente sobre Clound Computer 
+- 🌱 Estudando atualmente sobre Clound Computer e Ciência de dados.
 - 🎓 Graduando em Ciência da computação na Universidade Federal Fluminense - <b>UFF</b>
 
 
@@ -8,6 +8,7 @@
   <a href="https://github.com/JohKemPo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JohKemPo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohKemPo&layout=compact&langs_count=7&theme=tokyonight"/>
+ 
 </div></br>
 
 <div style="display: inline_block" align="center"><br>
