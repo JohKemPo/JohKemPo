@@ -24,4 +24,4 @@
 
 - [ ] Site Portifólio
 - [ ] Projeto Data Science - Portifólio
-- [ ] Fazer upload dos Primeiros projetos no github
+- [X] Fazer upload dos Primeiros projetos no github
