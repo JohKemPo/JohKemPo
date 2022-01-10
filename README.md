@@ -20,6 +20,8 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
  </div>
 
+ ![Snake animation](https://github.com/JohKemPo/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 ### Projetos em andamento
 
 - [ ] Site Portifólio
