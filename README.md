@@ -25,6 +25,5 @@
 
 ### Projetos em andamento
 
-- [ ] Site Portifólio
-- [ ] Projeto Data Science - Portifólio
+- [ ] Projeto Data Science 
 - [X] Fazer upload dos Primeiros projetos no github
