@@ -1,7 +1,7 @@
-<h1 align = "center"> Olá, Seja Bem vindo ao meu repositório. 👋 </h1>
+<h1 align="center"> Hello, Welcome to my repository. 👋 </h1>
 
-- 🌱 Estudando atualmente sobre Clound Computer e Ciência de dados.
-- 🎓 Graduando em Ciência da computação na Universidade Federal Fluminense - <b>UFF</b>
+- 🌱 Currently studying about Cloud Computer and Data Science.
+- 🎓 Graduating in Computer Science at Universidade Federal Fluminense - <b>UFF</b>
 
 
 <div align="center">
