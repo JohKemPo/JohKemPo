@@ -32,7 +32,7 @@
 <br>
 <br>
 
-<table align="LEFT" height="385px">
+<table align="left" height="385px" >
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=bash" width="40px" alt="bash icon"/><br>
@@ -66,58 +66,9 @@
         </b>
       </sub>
     </td>
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=git" width="40px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>&emsp;Git&emsp;</pre>
-        </b>
-      </sub>
-    </td>
+    
   </tr>
  
-<tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=bash" width="40px" alt="Java Icon"/><br>
-      <sub>
-        <b>
-          <pre>Terminal</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="40px" alt="Javascript icon"/><br>
-      <sub>
-        <b>
-          <pre>Javascript</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="40px" alt="CSS3 icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;CSS3&ensp;</pre>
-        </b>
-      </sub>
-    </td>
-        <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="40px" alt="HTML5 icon"/><br>
-      <sub>
-        <b>
-          <pre>HTML5</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=git" width="40px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>&emsp;Git&emsp;</pre>
-        </b>
-      </sub>
-    </td>
-  </tr> 
  
   
 </table>
