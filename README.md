@@ -59,7 +59,7 @@
         </b>
       </sub>
     </td>
-        <td align="center">
+   <td align="center">
       <img src="https://skillicons.dev/icons?i=html" width="40px" alt="HTML5 icon"/><br>
       <sub>
         <b>
@@ -67,10 +67,69 @@
         </b>
       </sub>
     </td>
-    
   </tr>
  
+ <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="40px" alt="Java icon"/><br>
+      <sub>
+        <b>
+          <pre>Java</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py" width="40px" alt="Python icon"/><br>
+      <sub>
+        <b>
+          <pre>Python</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=c" width="40px" alt="C icon"/><br>
+      <sub>
+        <b>
+          <pre>C</pre>
+        </b>
+      </sub>
+    </td>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="40px" alt="Docker icon"/><br>
+      <sub>
+        <b>
+          <pre>DOCKER</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
  
+ <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=r" width="40px" alt="R icon"/><br>
+      <sub>
+        <b>
+          <pre>R</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=gcp" width="40px" alt="GCP icon"/><br>
+      <sub>
+        <b>
+          <pre>GCP</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40px" alt="Sql icon"/><br>
+      <sub>
+        <b>
+          <pre>MySql</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
   
 </table>
 
@@ -106,13 +165,15 @@
     </a>
     </td>
   </tr>
-  
+
 </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
 
+
+<!------------------------------------------------------------------------------------------------------------------->
 
 
 
