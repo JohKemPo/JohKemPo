@@ -9,7 +9,7 @@
 <br>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=JohKemPo&theme=tokyo-night&hide_border=true&&custom_title=JohKemPo's%20Contribution%20Graph">
 
-<img align="left" height="375px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohKemPo&langs_count=8&theme=tokyonight&hide_border=true">
+<img align="left" height="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohKemPo&langs_count=8&theme=tokyonight&hide_border=true">
 <div align="right">
 <img height="180px"  src="https://github-readme-stats.vercel.app/api?username=JohKemPo&show_icons=true&custom_title=JohKemPo's%20Github%20Stats&theme=tokyonight&hide_border=true">
 <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=JohKemPo&theme=tokyonight&hide_border=true">
@@ -35,7 +35,7 @@
 <table align="LEFT" height="495px">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br>
+      <img src="https://skillicons.dev/icons?i=bash" width="40px" alt="bash icon"/><br>
       <sub>
         <b>
           <pre>Terminal</pre>
@@ -43,7 +43,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
+      <img src="https://skillicons.dev/icons?i=javascript" width="40px" alt="Javascript icon"/><br>
       <sub>
         <b>
           <pre>Javascript</pre>
@@ -51,7 +51,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
+      <img src="https://skillicons.dev/icons?i=css" width="40px" alt="CSS3 icon"/><br>
       <sub>
         <b>
           <pre>&ensp;CSS3&ensp;</pre>
@@ -59,7 +59,7 @@
       </sub>
     </td>
         <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
+      <img src="https://skillicons.dev/icons?i=html" width="40px" alt="HTML5 icon"/><br>
       <sub>
         <b>
           <pre>HTML5</pre>
@@ -67,7 +67,7 @@
       </sub>
     </td>
     <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
+      <img src="https://skillicons.dev/icons?i=git" width="40px" alt="Git icon"/><br>
       <sub>
         <b>
           <pre>&emsp;Git&emsp;</pre>
@@ -78,7 +78,7 @@
  
 <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="Java Icon"/><br>
+      <img src="https://skillicons.dev/icons?i=bash" width="40px" alt="Java Icon"/><br>
       <sub>
         <b>
           <pre>Terminal</pre>
@@ -86,7 +86,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
+      <img src="https://skillicons.dev/icons?i=javascript" width="40px" alt="Javascript icon"/><br>
       <sub>
         <b>
           <pre>Javascript</pre>
@@ -94,7 +94,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
+      <img src="https://skillicons.dev/icons?i=css" width="40px" alt="CSS3 icon"/><br>
       <sub>
         <b>
           <pre>&ensp;CSS3&ensp;</pre>
@@ -102,7 +102,7 @@
       </sub>
     </td>
         <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
+      <img src="https://skillicons.dev/icons?i=html" width="40px" alt="HTML5 icon"/><br>
       <sub>
         <b>
           <pre>HTML5</pre>
@@ -110,7 +110,7 @@
       </sub>
     </td>
     <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
+      <img src="https://skillicons.dev/icons?i=git" width="40px" alt="Git icon"/><br>
       <sub>
         <b>
           <pre>&emsp;Git&emsp;</pre>
