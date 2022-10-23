@@ -9,10 +9,10 @@
 <br>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=JohKemPo&theme=tokyo-night&hide_border=true&&custom_title=JohKemPo's%20Contribution%20Graph">
 
-<img align="left" height="415px" whidth="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohKemPo&langs_count=8&theme=tokyonight&hide_border=true">
+<img align="left" height="375px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohKemPo&langs_count=8&theme=tokyonight&hide_border=true">
 <div align="right">
-<img height="203px" whidth="300px" src="https://github-readme-stats.vercel.app/api?username=JohKemPo&show_icons=true&custom_title=JohKemPo's%20Github%20Stats&theme=tokyonight&hide_border=true">
-<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=JohKemPo&theme=tokyonight&hide_border=true">
+<img height="180px"  src="https://github-readme-stats.vercel.app/api?username=JohKemPo&show_icons=true&custom_title=JohKemPo's%20Github%20Stats&theme=tokyonight&hide_border=true">
+<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=JohKemPo&theme=tokyonight&hide_border=true">
 </div>
 
 <!--
