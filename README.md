@@ -32,7 +32,7 @@
 <br>
 <br>
 
-<table align="LEFT" height="370px">
+<table align="LEFT" height="385px">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=bash" width="40px" alt="bash icon"/><br>
@@ -124,7 +124,7 @@
 
 <!------------------------------------------------------------------------------------------------------------------->
 
-<table align="right" height="370px">
+<table align="right" height="300px">
 
   <tr>
     <td>
