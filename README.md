@@ -1,5 +1,6 @@
 <h1 align="center"> Hello, Welcome to my repository. 👋 </h1>
 
+<br>
 - 🌱 Currently studying about Cloud Computer and Data Science.
 - 🎓 Graduating in Computer Science at Universidade Federal Fluminense - <b>UFF</b>
 
