@@ -165,7 +165,21 @@
     </a>
     </td>
   </tr>
-
+  <tr>
+    <td>
+    <a href="https://github.com/JohKemPo/Dio-bootcamp-Ifood-java" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohKemPo&repo=Dio-bootcamp-Ifood-java&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/JohKemPo/DataScience_Codes" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohKemPo&repo=DataScience_Codes&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+  
 </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
