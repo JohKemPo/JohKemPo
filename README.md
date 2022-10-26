@@ -129,6 +129,15 @@
         </b>
       </sub>
     </td>
+ 
+  <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux" width="40px" alt="Sql icon"/><br>
+      <sub>
+        <b>
+          <pre>Linux</pre>
+        </b>
+      </sub>
+    </td>
   </tr>
   
 </table>
