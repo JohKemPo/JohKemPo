@@ -147,7 +147,7 @@
   <tr>
     <td>
     <a href="https://github.com/JohKemPo/FundamentalsOfAcceleratedComputing-CUDA" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohKemPo&repo=Dio-bootcamp-Ifood-java&theme=tokyonight&hide_border=true">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohKemPo&repo=FundamentalsOfAcceleratedComputing-CUDA&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
