@@ -139,6 +139,16 @@
       </sub>
     </td>
   </tr>
+  <tr>
+  <td align="center">
+      <img src="https://skillicons.dev/icons?i=flask" width="40px" alt="Sql icon"/><br>
+      <sub>
+        <b>
+          <pre>Flask</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
   
 </table>
 
@@ -188,6 +198,7 @@
     </a>
     </td>
   </tr>
+  
   
 </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
