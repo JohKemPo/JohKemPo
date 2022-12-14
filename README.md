@@ -22,7 +22,10 @@
 <br>
 <h2 align="center"> <i>A C T I V I T Y</i></h2>
 <br>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=JohKemPo&theme=tokyo-night&hide_border=true&&custom_title=JohKemPo's%20Contribution%20Graph">
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JohKemPo&theme=tokyo-night&hide_border=true&point=ffffff&radius=10&custom_title=JohKemPo's%20Contributions)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img align="left" height="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohKemPo&langs_count=8&theme=tokyonight&hide_border=true">
 <div align="right">
@@ -31,6 +34,8 @@
 </div>
 
 <!--
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=JohKemPo&theme=tokyo-night&hide_border=true&&custom_title=JohKemPo%20Contribution%20Graph">
+
 <div align="center">
   <a href="https://github.com/JohKemPo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JohKemPo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
