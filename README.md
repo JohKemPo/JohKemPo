@@ -53,6 +53,111 @@
 <br>
 
 <table align="left" height="500px" >
+ <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="40px" alt="Java icon"/><br>
+      <sub>
+        <b>
+          <pre>Java</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py" width="40px" alt="Python icon"/><br>
+      <sub>
+        <b>
+          <pre>Python</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=c" width="40px" alt="C icon"/><br>
+      <sub>
+        <b>
+          <pre>C</pre>
+        </b>
+      </sub>
+    </td>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="40px" alt="Docker icon"/><br>
+      <sub>
+        <b>
+          <pre>DOCKER</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+ <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=r" width="40px" alt="R icon"/><br>
+      <sub>
+        <b>
+          <pre>R</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=gcp" width="40px" alt="GCP icon"/><br>
+      <sub>
+        <b>
+          <pre>GCP</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40px" alt="Sql icon"/><br>
+      <sub>
+        <b>
+          <pre>MySql</pre>
+        </b>
+      </sub>
+    </td>
+ <td align="center">
+      <img src="https://user-images.githubusercontent.com/74382074/221614842-e10ac993-a9c0-4bd8-ae20-1592f0b38760.png" width="40px" alt="Power BI icon"/><br>
+      <sub>
+        <b>
+          <pre>Power BI</pre>
+        </b>
+      </sub>
+    </td>
+  
+        <!-- ![image](https://user-images.githubusercontent.com/74382074/221614842-e10ac993-a9c0-4bd8-ae20-1592f0b38760.png)-->
+
+  </tr>
+  <tr>
+  <td align="center">
+      <img src="https://skillicons.dev/icons?i=flask" width="40px" alt="flask icon"/><br>
+      <sub>
+        <b>
+          <pre>Flask</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws" width="40px" alt="aws icon"/><br>
+      <sub>
+        <b>
+          <pre>Aws</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JohKemPo"><img src="https://skillicons.dev/icons?i=github" width="40px" alt="github icon"/></a><br>
+      <sub>
+        <b>
+          <pre>Github</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux" width="40px" alt="linux icon"/><br>
+      <sub>
+        <b>
+          <pre>Linux</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=bash" width="40px" alt="bash icon"/><br>
@@ -88,86 +193,9 @@
     </td>
   </tr>
  
- <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="40px" alt="Java icon"/><br>
-      <sub>
-        <b>
-          <pre>Java</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=py" width="40px" alt="Python icon"/><br>
-      <sub>
-        <b>
-          <pre>Python</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=c" width="40px" alt="C icon"/><br>
-      <sub>
-        <b>
-          <pre>C</pre>
-        </b>
-      </sub>
-    </td>
-   <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker" width="40px" alt="Docker icon"/><br>
-      <sub>
-        <b>
-          <pre>DOCKER</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
+
  
- <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=r" width="40px" alt="R icon"/><br>
-      <sub>
-        <b>
-          <pre>R</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=gcp" width="40px" alt="GCP icon"/><br>
-      <sub>
-        <b>
-          <pre>GCP</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="40px" alt="Sql icon"/><br>
-      <sub>
-        <b>
-          <pre>MySql</pre>
-        </b>
-      </sub>
-    </td>
- 
-  <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux" width="40px" alt="Sql icon"/><br>
-      <sub>
-        <b>
-          <pre>Linux</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-  <tr>
-  <td align="center">
-      <img src="https://skillicons.dev/icons?i=flask" width="40px" alt="Sql icon"/><br>
-      <sub>
-        <b>
-          <pre>Flask</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
+
   
 </table>
 
