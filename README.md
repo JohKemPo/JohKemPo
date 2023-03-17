@@ -232,6 +232,13 @@
     </a>
     </td>
   </tr>
+   <tr>
+    <td>
+    <a href="https://github.com/JohKemPo/Docker_Repository" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohKemPo&repo=Docker_Repository&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
   <tr>
     <td>
     <a href="https://github.com/JohKemPo/Jornada_DevOps_com_AWS" target="_blank">
