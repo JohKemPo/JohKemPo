@@ -261,7 +261,7 @@
 
 
 <hr>
-
+<!--
 
 
 
@@ -310,7 +310,7 @@
                       
 <br>
 
-<div align="center"><image src="https://i.imgur.com/snYI3XX.gif"></div>
+<div align="center"><image src="https://i.imgur.com/snYI3XX.gif"></div>-->
 <!------------------------------------------------------------------------------------------------------------------->
 
 
