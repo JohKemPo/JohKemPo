@@ -241,13 +241,6 @@
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/JohKemPo/Jornada_DevOps_com_AWS" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohKemPo&repo=Jornada_DevOps_com_AWS&theme=tokyonight&hide_border=true">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
     <a href="https://github.com/JohKemPo/DataScience_Codes" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohKemPo&repo=DataScience_Codes&theme=tokyonight&hide_border=true">
     </a>
