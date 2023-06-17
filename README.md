@@ -26,7 +26,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JohKemPo&theme=tokyo-night&hide_border=true&point=ffffff&radius=10&custom_title=JohKemPo's%20Contributions)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JohKemPo&theme=tokyo-night&hide_border=true&point=ffffff&radius=10&custom_title=JohKemPo's%20Contributions)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img align="left" height="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohKemPo&langs_count=8&theme=tokyonight&hide_border=true">
 <div align="right">
