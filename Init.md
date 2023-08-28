@@ -85,9 +85,6 @@ Mantenha-se atualizado e aprofunde seus conhecimentos seguindo essas fontes de n
 - [Coursera](https://www.coursera.org/)
 - [edX](https://www.edx.org/)
 
-## Considerações Finais
-
-Lembre-se de que a jornada na Ciência da Computação é empolgante e desafiadora. Além das trilhas mencionadas, explore outras áreas e projetos que despertem seu interesse. Nunca pare de aprender, experimentar e criar, pois a prática constante é a chave para o sucesso nesse campo em constante evolução. Boa sorte em sua jornada de estudos e crescimento na Ciência da Computação! 🚀
 
 <h2 id="Equipe">Equipe</h2><br>
 
