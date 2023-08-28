@@ -67,6 +67,8 @@ Aqui algumas das principais trilhas na área da Ciência da Computação, juntam
 - [Beecorwd - Plataforma de desafios práticos de programação ](https://www.beecrowd.com.br/judge/pt/)
 - [Melhor repositório sobre trilhas na área de cyber security que conheço](https://github.com/arthurspk/guiadecybersecurity)
 - [Livros diversos](https://github.com/JohKemPo/books)
+- [Exercicios estrutura de dados](https://www.computersciencemaster.com.br/exercicios-de-estrutura-de-dados/)
+
 ## Fontes de Notícias e Aprendizado Contínuo
 
 Mantenha-se atualizado e aprofunde seus conhecimentos seguindo essas fontes de notícias e recursos de aprendizado:
