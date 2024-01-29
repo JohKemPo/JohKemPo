@@ -56,7 +56,7 @@
 <table align="left" height="500px" >
  <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="40px" alt="Java icon"/><br>
+      <img src="https://skillicons.dev/icons?i=java" width="30px" alt="Java icon"/><br>
       <sub>
         <b>
           <pre>Java</pre>
@@ -64,7 +64,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=py" width="40px" alt="Python icon"/><br>
+      <img src="https://skillicons.dev/icons?i=py" width="30px" alt="Python icon"/><br>
       <sub>
         <b>
           <pre>Python</pre>
@@ -72,7 +72,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=c" width="40px" alt="C icon"/><br>
+      <img src="https://skillicons.dev/icons?i=c" width="30px" alt="C icon"/><br>
       <sub>
         <b>
           <pre>C</pre>
@@ -80,7 +80,7 @@
       </sub>
     </td>
    <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker" width="40px" alt="Docker icon"/><br>
+      <img src="https://skillicons.dev/icons?i=docker" width="30px" alt="Docker icon"/><br>
       <sub>
         <b>
           <pre>DOCKER</pre>
@@ -90,7 +90,7 @@
   </tr>
  <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=r" width="40px" alt="R icon"/><br>
+      <img src="https://skillicons.dev/icons?i=r" width="30px" alt="R icon"/><br>
       <sub>
         <b>
           <pre>R</pre>
@@ -98,7 +98,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=gcp" width="40px" alt="GCP icon"/><br>
+      <img src="https://skillicons.dev/icons?i=gcp" width="30px" alt="GCP icon"/><br>
       <sub>
         <b>
           <pre>GCP</pre>
@@ -106,7 +106,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="40px" alt="Sql icon"/><br>
+      <img src="https://skillicons.dev/icons?i=mysql" width="30px" alt="Sql icon"/><br>
       <sub>
         <b>
           <pre>MySql</pre>
@@ -114,7 +114,7 @@
       </sub>
     </td>
  <td align="center">
-      <img src="https://user-images.githubusercontent.com/74382074/221614842-e10ac993-a9c0-4bd8-ae20-1592f0b38760.png" width="40px" alt="Power BI icon"/><br>
+      <img src="https://user-images.githubusercontent.com/74382074/221614842-e10ac993-a9c0-4bd8-ae20-1592f0b38760.png" width="30px" alt="Power BI icon"/><br>
       <sub>
         <b>
           <pre>Power BI</pre>
@@ -127,7 +127,7 @@
   </tr>
   <tr>
   <td align="center">
-      <img src="https://skillicons.dev/icons?i=flask" width="40px" alt="flask icon"/><br>
+      <img src="https://skillicons.dev/icons?i=flask" width="30px" alt="flask icon"/><br>
       <sub>
         <b>
           <pre>Flask</pre>
@@ -135,7 +135,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws" width="40px" alt="aws icon"/><br>
+      <img src="https://skillicons.dev/icons?i=aws" width="30px" alt="aws icon"/><br>
       <sub>
         <b>
           <pre>Aws</pre>
@@ -143,7 +143,7 @@
       </sub>
     </td>
     <td align="center">
-      <a href="https://github.com/JohKemPo"><img src="https://skillicons.dev/icons?i=github" width="40px" alt="github icon"/></a><br>
+      <a href="https://github.com/JohKemPo"><img src="https://skillicons.dev/icons?i=github" width="30px" alt="github icon"/></a><br>
       <sub>
         <b>
           <pre>Github</pre>
@@ -151,7 +151,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux" width="40px" alt="linux icon"/><br>
+      <img src="https://skillicons.dev/icons?i=linux" width="30px" alt="linux icon"/><br>
       <sub>
         <b>
           <pre>Linux</pre>
@@ -161,7 +161,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bash" width="40px" alt="bash icon"/><br>
+      <img src="https://skillicons.dev/icons?i=bash" width="30px" alt="bash icon"/><br>
       <sub>
         <b>
           <pre>Terminal</pre>
@@ -169,7 +169,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="40px" alt="Javascript icon"/><br>
+      <img src="https://skillicons.dev/icons?i=javascript" width="30px" alt="Javascript icon"/><br>
       <sub>
         <b>
           <pre>Javascript</pre>
@@ -177,7 +177,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="40px" alt="CSS3 icon"/><br>
+      <img src="https://skillicons.dev/icons?i=css" width="30px" alt="CSS3 icon"/><br>
       <sub>
         <b>
           <pre>&ensp;CSS3&ensp;</pre>
@@ -185,7 +185,7 @@
       </sub>
     </td>
    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="40px" alt="HTML5 icon"/><br>
+      <img src="https://skillicons.dev/icons?i=html" width="30px" alt="HTML5 icon"/><br>
       <sub>
         <b>
           <pre>HTML5</pre>
@@ -202,7 +202,7 @@
 
 <!------------------------------------------------------------------------------------------------------------------->
 
-<table align="right" height="500px" width="180px">
+<table align="right" height="500px" width="100px">
 
   <tr>
     <td>
