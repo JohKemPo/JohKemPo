@@ -53,7 +53,7 @@
 <br>
 <br>
 
-<table align="left" height="500px" >
+<table align="left" height="400px" >
  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=java" width="40px" alt="Java icon"/><br>
@@ -202,7 +202,7 @@
 
 <!------------------------------------------------------------------------------------------------------------------->
 
-<table align="right" height="500px" width="180px">
+<table align="right" height="400px" width="140px">
 
   <tr>
     <td>
