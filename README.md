@@ -1,4 +1,4 @@
-<!--<pre align ="center">
+<pre align ="center">
         ___                                ___           ___           ___           ___           ___     
        /\__\          ___                 /\  \         /\__\         /\  \         /\  \         /\  \    
       /:/  /         /\  \                \:\  \       /:/  /        /::\  \       /::\  \       /::\  \   
@@ -11,8 +11,10 @@
        /:/  /      \/__/                                /:/  /       \:\__\        |:|  |        \:\__\    
        \/__/                                            \/__/         \/__/         \|__|         \/__/  
 </pre>
--->
+
 <h1 align="center">Welcome to my repository. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+
+
 
 
 <br>
@@ -42,8 +44,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JohKemPo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohKemPo&layout=compact&langs_count=7&theme=tokyonight"/>
  
-</div></br>
--->
+</div></br>-->
+
 
 <br>
 <br>
@@ -200,9 +202,9 @@
   
 </table>
 
-<!------------------------------------------------------------------------------------------------------------------->
 
-<table align="right" height="500px" width="180px">
+
+<table align="right" height="500px" width="170px">
 
   <tr>
     <td>
@@ -244,13 +246,14 @@
   
   
 </table>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br>
 
 
 <hr>
-<!--
 
+<!---
 
 
                               .,***********,.                               
@@ -295,11 +298,9 @@
                  ....,/(///////((((((//(#(((((////(((/****,,,,,,..          
                       ***********/(/,,.........,,.............              
                       
-                      
 <br>
 
 <div align="center"><image src="https://i.imgur.com/snYI3XX.gif"></div>-->
-<!------------------------------------------------------------------------------------------------------------------->
 
 
 
@@ -319,9 +320,8 @@
 
 
 
-<!------------------------------------------------------------------------------------------------------------------->
-
 <!--
+
 <div style="display: inline_block" align="center"><br>
   <i class="devicon-wordpress-plain"></i>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
