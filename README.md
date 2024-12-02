@@ -55,7 +55,7 @@
 <br>
 <br>
 
-<table align="left" height="500px" >
+<table align="center" height="500px" >
  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=java" width="40px" alt="Java icon"/><br>
@@ -203,6 +203,8 @@
 </table>
 
 
+<!--
+
 
 <table align="right" height="500px" width="170px">
 
@@ -246,12 +248,11 @@
   
   
 </table>
-
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+-->
 <br><br>
 
 
-<hr>
 
 <!---
 
